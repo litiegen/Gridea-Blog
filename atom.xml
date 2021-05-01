@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://lpl666.online/</id>
-    <title>Lenzo</title>
-    <updated>2021-05-01T02:59:55.975Z</updated>
+    <title>Lenzooooo</title>
+    <updated>2021-05-01T03:00:42.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://lpl666.online/"/>
     <link rel="self" href="http://lpl666.online/atom.xml"/>
     <subtitle>道常无为，而无不为</subtitle>
     <logo>http://lpl666.online/images/avatar.png</logo>
     <icon>http://lpl666.online/favicon.ico</icon>
-    <rights>All rights reserved 2021, Lenzo</rights>
+    <rights>All rights reserved 2021, Lenzooooo</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://lpl666.online/post/hello-gridea/</id>
