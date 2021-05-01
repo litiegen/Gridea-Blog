@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lpl666.online</id>
+    <id>http://lpl666.online/</id>
     <title>Lenzo</title>
-    <updated>2021-05-01T02:06:47.830Z</updated>
+    <updated>2021-05-01T02:07:58.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://lpl666.online"/>
+    <link rel="alternate" href="http://lpl666.online/"/>
     <link rel="self" href="http://lpl666.online/atom.xml"/>
     <subtitle>道常无为，而无不为</subtitle>
     <logo>http://lpl666.online/images/avatar.png</logo>
