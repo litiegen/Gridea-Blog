@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://litiegen.github.io/</id>
     <title>Lenzooooo</title>
-    <updated>2021-05-01T05:54:04.264Z</updated>
+    <updated>2021-05-01T09:16:03.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://litiegen.github.io/"/>
     <link rel="self" href="https://litiegen.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://litiegen.github.io/images/avatar.png</logo>
     <icon>https://litiegen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Lenzooooo</rights>
+    <entry>
+        <title type="html"><![CDATA[自定义U盘图标]]></title>
+        <id>https://litiegen.github.io/post/zi-ding-yi-u-pan-tu-biao/</id>
+        <link href="https://litiegen.github.io/post/zi-ding-yi-u-pan-tu-biao/">
+        </link>
+        <updated>2021-05-01T09:15:19.000Z</updated>
+        <content type="html"><![CDATA[<p>1.将照片格式改为“ico”格式<br>
+2.新建文件夹 ”autorun”<br>
+3.创建txt文件 文件内容<br>
+[autorun]|<br>
+ICON=“autorun\1.ico”<br>
+4.更改文件名称为autorun.inf</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://litiegen.github.io/post/hello-gridea/</id>
