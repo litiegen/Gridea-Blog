@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://lpl666.online/</id>
+    <id>http://lpl.ink</id>
     <title>Lenzooooo</title>
-    <updated>2021-05-01T10:49:15.276Z</updated>
+    <updated>2021-05-01T11:09:03.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://lpl666.online/"/>
-    <link rel="self" href="http://lpl666.online/atom.xml"/>
+    <link rel="alternate" href="http://lpl.ink"/>
+    <link rel="self" href="http://lpl.ink/atom.xml"/>
     <subtitle>道常无为，而无不为</subtitle>
-    <logo>http://lpl666.online/images/avatar.png</logo>
-    <icon>http://lpl666.online/favicon.ico</icon>
+    <logo>http://lpl.ink/images/avatar.png</logo>
+    <icon>http://lpl.ink/favicon.ico</icon>
     <rights>All rights reserved 2021, Lenzooooo</rights>
     <entry>
         <title type="html"><![CDATA[自定义U盘图标]]></title>
-        <id>http://lpl666.online/post/zi-ding-yi-u-pan-tu-biao/</id>
-        <link href="http://lpl666.online/post/zi-ding-yi-u-pan-tu-biao/">
+        <id>http://lpl.ink/post/zi-ding-yi-u-pan-tu-biao/</id>
+        <link href="http://lpl.ink/post/zi-ding-yi-u-pan-tu-biao/">
         </link>
         <updated>2021-05-01T09:15:19.000Z</updated>
         <content type="html"><![CDATA[<p>1.将照片格式改为“ico”格式<br>
@@ -26,8 +26,8 @@ ICON=“autorun\1.ico”<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://lpl666.online/post/hello-gridea/</id>
-        <link href="http://lpl666.online/post/hello-gridea/">
+        <id>http://lpl.ink/post/hello-gridea/</id>
+        <link href="http://lpl.ink/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
